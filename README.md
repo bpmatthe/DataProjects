@@ -2,4 +2,7 @@
 Projects I worked on in my Masters Program or in my current job.
 
 Notebooks titles as Assignments are from a course called Deep Learning. 
-Notebooks 
+Notebook titled Final Project is from a course called Machine Learning. 
+
+Notebook titled Pavement Data is work on PMDSS data from Wisconsin DOT.
+Notebook titled Safety 
